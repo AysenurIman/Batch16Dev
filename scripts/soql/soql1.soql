@@ -1,0 +1,5 @@
+select id, name,phone, website, Active__c from account
+
+
+
+https://d3x000001zzdyeau-dev-ed.develop.lightning.force.com/lightning/setup/SetupOneHome/home

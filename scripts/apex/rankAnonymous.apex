@@ -1,0 +1,11 @@
+RankHandler rh = new RankHandler();
+string p1 = rh.rankPrize(1);
+system.debug('1 => ' + p1);
+string p2 = rh.rankPrize(2);
+system.debug('2 => ' + p2);
+string p3 = rh.rankPrize(3);
+system.debug('3 => ' + p3);
+string p5 = rh.rankPrize(5);
+system.debug('5 => ' + p5);
+string p13 = rh.rankPrize(13);
+system.debug('13 => ' + p13);
